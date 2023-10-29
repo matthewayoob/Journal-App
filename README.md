@@ -48,6 +48,7 @@ which could enhance the application's features.
 **Unit Testing**
 
 I tested success and failure for each respective task below.
+
 ● Create Entries: Creating a new entry and attempting to create an entry with the same title
 
 ● View Entries: Printing an entry and trying to print an entry that does not exist (entry by
@@ -70,6 +71,6 @@ storage and retrieval, and stressing those retrievals.
 ● New Features
   Querying based on other factors of journals (date, title, ascending, descending)
   
-●  Likely to require new data structure implementation or quicker lookup, pondering dictionaries and hashing 
+● Likely to require new data structure implementation or quicker lookup, pondering dictionaries and hashing 
 
 ● Multiple Users: Creating login and logout capabilities which would require credentials, security provisions, sophisticated UI, etc.
